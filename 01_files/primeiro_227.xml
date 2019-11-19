@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>primeiro_227.jpg</filename>
+	<path>/home/marcelo/Área de Trabalho/Visão Computacional/Videos/extraidos/imgs/primeiro_227.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>direcional</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>658</ymin>
+			<xmax>526</xmax>
+			<ymax>991</ymax>
+		</bndbox>
+	</object>
+</annotation>
